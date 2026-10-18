@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@theme {
+  --color-black: #1a1a1a;
+  --color-main: #4a4a4a;
+  --font-title: "PlayfairDisplay", sans-serif;
+  --font-main: "Inter", sans-serif;
+  --font-weigth-bold: 700;
+}
+
+@layer base {
+  * {
+    @apply text-black antialiased;
+  }
+  h1 {
+    @apply text-white font-title leading-19 text-[4.125rem] md:leading-25.25 md:text-[5.5rem] 2xl:leading-40 2xl:text-[7.5rem];
+  }
+  h2 {
+    @apply font-title leading-9.25 text-[1.875rem] md:leading-12.25 md:text-[2.5rem] 2xl:leading-16 2xl:text-[3rem];
+  }
+  h3 {
+    @apply font-title leading-8.75 text-[1.625rem] md:leading-10 md:text-[1.875rem] 2xl:leading-10.75 2xl:text-[2rem];
+  }
+  h4 {
+    @apply text-white font-title leading-4.75 text-[0.875rem] 2xl:leading-5.25 2xl:text-[1rem];
+  }
+  p {
+    @apply text-main leading-6 font-main;
+  }
+}
+
+@layer components {
+  .g-container {
+    @apply w-[calc(100%-3rem)] max-w-[110rem] px-6 md:px-12 md:w-[calc(100%-6rem)] 2xl:px-20 2xl:w-[calc(100%-10rem)] mx-auto  box-content;
+  }
+}
