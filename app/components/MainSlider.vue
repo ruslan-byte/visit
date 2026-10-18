@@ -1,10 +1,22 @@
 <template>
-  <div class="relative">
+  <div class="relative h-121.25 md:h-103.5 2xl:h-124.5">
     <client-only>
       <swiper-container :autoplay="{ delay: 2000 }" loop>
         <swiper-slide>
           <img
-            src="/images/slider/Slide1.jpg"
+            src="/images/slider/us.jpg"
+            class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5 object-[calc(50%-20px)] md:object-[unset]"
+          />
+        </swiper-slide>
+        <swiper-slide>
+          <img
+            src="/images/slider/Slide5.jpg"
+            class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
+          />
+        </swiper-slide>
+        <swiper-slide>
+          <img
+            src="/images/slider/Slide8.jpg"
             class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
           />
         </swiper-slide>
@@ -16,43 +28,20 @@
         </swiper-slide>
         <swiper-slide>
           <img
-            src="/images/slider/slide3.jpg"
+            src="/images/slider/Slide3.jpg"
             class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
           />
         </swiper-slide>
         <swiper-slide>
           <img
-            src="/images/slider/slide4.jpg"
+            src="/images/slider/Slide4.jpg"
             class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
           />
         </swiper-slide>
+
         <swiper-slide>
           <img
-            src="/images/slider/Ruslan.webp"
-            class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
-          />
-        </swiper-slide>
-        <swiper-slide>
-          <img
-            src="/images/slider/slide5.jpg"
-            class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
-          />
-        </swiper-slide>
-        <swiper-slide>
-          <img
-            src="/images/slider/slide6.jpg"
-            class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
-          />
-        </swiper-slide>
-        <swiper-slide>
-          <img
-            src="/images/slider/slide7.jpg"
-            class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
-          />
-        </swiper-slide>
-        <swiper-slide>
-          <img
-            src="/images/slider/Novoros.jpg"
+            src="/images/slider/Slide6.jpg"
             class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
           />
         </swiper-slide>

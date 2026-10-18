@@ -1,5 +1,7 @@
 <template>
-  <div class="bg-[#F9F8F6] py-16 md:py-20 2xl:py-30">
+  <div
+    class="bg-[#F9F8F6] py-16 md:py-20 2xl:py-30 bg-[url('./heart.png')] bg-fixed bg-no-repeat bg-size-[80px] bg-position-[50%_50%]"
+  >
     <div class="g-container">
       <h2
         class="mb-8 text-[2rem] md:text-[2.5rem] 2xl:text-[3rem] 2xl:leading-16 2xl:mb-16"
