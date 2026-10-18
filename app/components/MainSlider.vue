@@ -3,14 +3,50 @@
     <swiper-container :autoplay="{ delay: 2000 }" loop>
       <swiper-slide>
         <NuxtImg
-          src="/images/slider/Novoros.jpg"
+          src="/images/slider/Slide1.jpg"
+          class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
+        />
+      </swiper-slide>
+      <swiper-slide>
+        <NuxtImg
+          src="/images/slider/Slide2.jpg"
+          class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
+        />
+      </swiper-slide>
+      <swiper-slide>
+        <NuxtImg
+          src="/images/slider/Slide3.jpg"
+          class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
+        />
+      </swiper-slide>
+      <swiper-slide>
+        <NuxtImg
+          src="/images/slider/Slide4.jpg"
           class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
         />
       </swiper-slide>
       <swiper-slide>
         <NuxtImg
           src="/images/slider/Ruslan.webp"
-          class="w-full h-121.25 object-contain brightness-80 md:h-103.5 2xl:h-124.5 bg-bottom"
+          class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
+        />
+      </swiper-slide>
+      <swiper-slide>
+        <NuxtImg
+          src="/images/slider/Slide5.jpg"
+          class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
+        />
+      </swiper-slide>
+      <swiper-slide>
+        <NuxtImg
+          src="/images/slider/Slide6.jpg"
+          class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
+        />
+      </swiper-slide>
+      <swiper-slide>
+        <NuxtImg
+          src="/images/slider/Slide7.jpg"
+          class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
         />
       </swiper-slide>
       <swiper-slide>
@@ -31,7 +67,8 @@
         <p
           class="text-white text-center text-[1.0625rem] leading-6.75 md:leading-8 md:text-[1.25rem] 2xl:text-[1.5rem] 2xl:tracking-normal whitespace-nowrap"
         >
-          Приглашаем вас разделить с нами этот <br class="md:hidden" />
+          Приглашаем вас<br class="min-[360px]:hidden" />
+          разделить с нами этот <br class="md:hidden" />
           особенный день
         </p>
       </div>
