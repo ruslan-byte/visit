@@ -2,55 +2,55 @@
   <div class="relative">
     <swiper-container :autoplay="{ delay: 2000 }" loop>
       <swiper-slide>
-        <NuxtImg
+        <image
           src="/images/slider/Slide1.jpg"
           class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
         />
       </swiper-slide>
       <swiper-slide>
-        <NuxtImg
+        <img
           src="/images/slider/Slide2.jpg"
           class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
         />
       </swiper-slide>
       <swiper-slide>
-        <NuxtImg
+        <img
           src="/images/slider/Slide3.jpg"
           class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
         />
       </swiper-slide>
       <swiper-slide>
-        <NuxtImg
+        <img
           src="/images/slider/Slide4.jpg"
           class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
         />
       </swiper-slide>
       <swiper-slide>
-        <NuxtImg
+        <img
           src="/images/slider/Ruslan.webp"
           class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
         />
       </swiper-slide>
       <swiper-slide>
-        <NuxtImg
+        <img
           src="/images/slider/Slide5.jpg"
           class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
         />
       </swiper-slide>
       <swiper-slide>
-        <NuxtImg
+        <img
           src="/images/slider/Slide6.jpg"
           class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
         />
       </swiper-slide>
       <swiper-slide>
-        <NuxtImg
+        <img
           src="/images/slider/Slide7.jpg"
           class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
         />
       </swiper-slide>
       <swiper-slide>
-        <NuxtImg
+        <img
           src="/images/slider/Novoros.jpg"
           class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
         />
