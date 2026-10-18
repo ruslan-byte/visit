@@ -9,5 +9,6 @@ export default defineNuxtConfig({
   },
   app: {
     baseURL: "/visit/",
+    cdnURL: "/visit/",
   },
 });
