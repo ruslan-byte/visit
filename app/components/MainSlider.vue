@@ -82,5 +82,6 @@ useHead({
   htmlAttrs: {
     lang: "ru",
   },
+  link: [{ rel: "icon", href: "/favicon.svg" }],
 });
 </script>
