@@ -77,11 +77,3 @@
     </div>
   </div>
 </template>
-<script setup lang="ts">
-useHead({
-  htmlAttrs: {
-    lang: "ru",
-  },
-  link: [{ rel: "icon", href: "/favicon.svg" }],
-});
-</script>

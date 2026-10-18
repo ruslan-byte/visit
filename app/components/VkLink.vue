@@ -6,7 +6,7 @@
   >
     <button
       type="button"
-      class="bg-white w-full flex py-5 px-10 rounded items-center justify-center cursor-pointer"
+      class="bg-white w-full flex py-5 px-10 rounded items-center justify-center cursor-pointer group-hover:bg-gray-200 group-active:bg-white"
     >
       <div class="mr-2 group-hover:text-main group-active:text-black">
         Беседа в
