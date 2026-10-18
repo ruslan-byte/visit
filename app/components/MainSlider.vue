@@ -9,8 +9,8 @@
       </swiper-slide>
       <swiper-slide>
         <NuxtImg
-          src="/images/slider/Novoros.jpg"
-          class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
+          src="/images/slider/Ruslan.webp"
+          class="w-full h-121.25 object-contain brightness-80 md:h-103.5 2xl:h-124.5 bg-bottom"
         />
       </swiper-slide>
       <swiper-slide>

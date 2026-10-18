@@ -1,5 +1,5 @@
 <template>
-  <div class="g-container pt-16 md:py-20 2xl:py-30">
+  <div class="g-container py-16 md:py-20 2xl:py-30">
     <h2 class="mb-8 text-center md:mb-10 2xl:mb-16">
       До большого дня осталось
     </h2>
