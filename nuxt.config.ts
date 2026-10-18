@@ -9,6 +9,6 @@ export default defineNuxtConfig({
   },
   app: {
     baseURL: "/visit/",
-    buildAssetsDir: "/visit/_nuxt/",
+    buildAssetsDir: "_nuxt",
   },
 });
