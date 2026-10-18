@@ -16,13 +16,13 @@
         </swiper-slide>
         <swiper-slide>
           <img
-            src="/images/slider/Slide3.jpg"
+            src="/images/slider/slide3.jpg"
             class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
           />
         </swiper-slide>
         <swiper-slide>
           <img
-            src="/images/slider/Slide4.jpg"
+            src="/images/slider/slide4.jpg"
             class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
           />
         </swiper-slide>
@@ -34,19 +34,19 @@
         </swiper-slide>
         <swiper-slide>
           <img
-            src="/images/slider/Slide5.jpg"
+            src="/images/slider/slide5.jpg"
             class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
           />
         </swiper-slide>
         <swiper-slide>
           <img
-            src="/images/slider/Slide6.jpg"
+            src="/images/slider/slide6.jpg"
             class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
           />
         </swiper-slide>
         <swiper-slide>
           <img
-            src="/images/slider/Slide7.jpg"
+            src="/images/slider/slide7.jpg"
             class="w-full h-121.25 object-cover brightness-80 md:h-103.5 2xl:h-124.5"
           />
         </swiper-slide>
